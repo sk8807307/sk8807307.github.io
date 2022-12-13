@@ -7,7 +7,7 @@ HTML, CSS, and Javascript for Web Developers  by Johns Hopkins University
 # Instructor---
 Instructor rating
 4.79/5 (3,036 Ratings)
-[Yaakov Chaikin](https://www.linkedin.com/in/yaakovchaikin)
+[Yaakov Chaikin](https://www.linkedin.com/in/yaakovchaikin)<br />
 Adjunct Professor, Graduate Computer Science
 Whiting School of Engineering
-##[HTML, CSS, JavaScript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+[HTML, CSS, JavaScript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
