@@ -1,8 +1,8 @@
 This repository is uploaded by - 
 # [Mohd Shahnawaz](https://www.linkedin.com/in/shahkhan77)
 [View Website](
-sk8807307.github.io/HTML_CSS_Javascript_for-_Web_Developers_Coursera/module5-solution/index.html
-)
+https://sk8807307.github.io/HTML_CSS_Javascript_for-_Web_Developers_Coursera/module5-solution/index.html
+)<br />
 I created this repo for submitting assignments of HTML, CSS, and Javascript for Web Developers <br />
 by [coursera.org](https://www.coursera.org/learn/html-css-javascript-for-web-developers)<br />
 with their respective modules as 1, 2, 3, and 4!
